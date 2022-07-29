@@ -1,0 +1,5685 @@
+GET request
+Path: /
+From: ('127.0.0.1', 60852)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Tue, 07 Sep 2021 09:18:44 GMT
+
+
+
+GET request
+Path: /favicon.ico
+From: ('127.0.0.1', 60856)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 60858)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 33088)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 33090)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34386)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34392)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=3x-long-shitcoin-index-token&symbol=bullshit
+From: ('127.0.0.1', 34394)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=bullshit
+From: ('127.0.0.1', 34398)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=3x-long-shitcoin-index-token&symbol=bullshit
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 34410)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 34412)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34420)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34422)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34434)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:22:41 GMT
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34436)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34442)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:25:06 GMT
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34444)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34448)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:25:23 GMT
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34450)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34454)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:25:59 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34456)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 34458)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 34460)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 34464)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 34466)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34468)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34472)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:25:59 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34474)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34476)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:25:59 GMT
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34478)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 34482)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 34484)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 34490)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 34492)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 34502)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 34504)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34506)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34516)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34522)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34528)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34534)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34540)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34546)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34552)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34560)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34568)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34576)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34592)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34596)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34602)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:26:48 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34604)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 34606)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 34608)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34610)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34614)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 34618)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 34620)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 34626)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 34628)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 34634)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:34:44 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34636)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 34638)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 34640)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 34644)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 34646)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 34648)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 34652)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 53558)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /favicon.ico
+From: ('127.0.0.1', 53570)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53572)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53576)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 53578)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 53580)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 53596)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 53598)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 53600)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 53604)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 53606)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=gala&symbol=gala
+From: ('127.0.0.1', 53610)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=gala
+From: ('127.0.0.1', 53618)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=gala&symbol=gala
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 53622)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=gala&symbol=gala
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 53624)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 53628)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 53630)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=solana&symbol=sol
+From: ('127.0.0.1', 53634)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=sol
+From: ('127.0.0.1', 53636)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 53640)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 53642)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=sol&coin_id=solana
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=sol
+From: ('127.0.0.1', 53644)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=sol&coin_id=solana
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 53650)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/buysell?symbol=sol&coin_id=solana
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 53652)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 53654)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 53658)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 53660)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53664)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53666)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53668)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53704)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53814)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53818)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53824)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53828)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53830)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53832)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53838)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53840)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53842)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=zoc&coin_id=01coin
+From: ('127.0.0.1', 53846)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 53848)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53850)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53862)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53868)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53870)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53880)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53890)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53894)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=zoc&coin_id=01coin
+From: ('127.0.0.1', 53902)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 53904)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53906)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53920)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53924)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53926)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53940)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53942)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53944)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53952)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53956)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53958)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 53976)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 53980)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 53984)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54022)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 54028)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 54032)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54038)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54040)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=solana&symbol=sol
+From: ('127.0.0.1', 54044)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 54046)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=zoc&coin_id=01coin
+From: ('127.0.0.1', 54052)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54054)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 54056)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54062)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+From: ('127.0.0.1', 54064)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 54066)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54070)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54072)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=plant-vs-undead-token&symbol=pvu
+From: ('127.0.0.1', 54076)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 54078)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=plant-vs-undead-token&symbol=pvu
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54094)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=01coin&symbol=zoc
+From: ('127.0.0.1', 54098)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 54102)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54108)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=01coin&symbol=zoc
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54110)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=solana&symbol=sol
+From: ('127.0.0.1', 54114)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=sol
+From: ('127.0.0.1', 54116)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54122)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54124)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54126)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54128)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54130)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54132)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54134)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54136)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54138)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54140)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54142)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54144)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54146)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54148)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54150)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54152)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54154)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54156)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54158)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54160)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54164)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54166)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54168)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54170)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54172)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54174)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54176)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54178)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54180)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=sol&coin_id=solana
+From: ('127.0.0.1', 54182)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=solana&symbol=sol
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54194)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+From: ('127.0.0.1', 54200)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=balhalf
+From: ('127.0.0.1', 54202)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54206)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54208)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=balhalf
+From: ('127.0.0.1', 54210)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54222)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+From: ('127.0.0.1', 54226)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=balhalf
+From: ('127.0.0.1', 54228)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54232)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54234)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54236)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54238)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54240)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54242)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54244)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54246)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54248)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54250)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54256)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+From: ('127.0.0.1', 54258)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=algohalf
+From: ('127.0.0.1', 54260)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54264)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54266)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54268)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54270)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54272)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54274)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54276)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54278)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54280)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 54282)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54304)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+From: ('127.0.0.1', 54308)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 54310)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+From: ('127.0.0.1', 54314)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54316)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 54318)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54330)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+From: ('127.0.0.1', 54332)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=balhalf
+From: ('127.0.0.1', 54334)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+From: ('127.0.0.1', 54338)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-balancer-token&symbol=balhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54340)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=balhalf
+From: ('127.0.0.1', 54342)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54496)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54500)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54502)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54510)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 54512)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54514)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 54516)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54520)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+From: ('127.0.0.1', 54522)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 54526)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+From: ('127.0.0.1', 54530)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54532)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 54534)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 54540)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54542)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 54544)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54548)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 54648)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Wed, 08 Sep 2021 08:34:44 GMT
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /buysell?symbol=zoc&coin_id=01coin
+From: ('127.0.0.1', 54788)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54790)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=zoc
+From: ('127.0.0.1', 54792)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54800)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54802)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54806)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54808)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 54812)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54814)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 54816)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 54876)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 11:34:47 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54880)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54884)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54886)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54888)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 54892)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54894)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 54896)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 54900)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 54902)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 54906)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54908)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+From: ('127.0.0.1', 54910)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 54916)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+From: ('127.0.0.1', 54920)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54922)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 54924)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 54930)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54932)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 54934)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 54938)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54940)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54942)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 54944)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54946)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /favicon.ico
+From: ('127.0.0.1', 54948)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: image/webp,*/*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 54950)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 54956)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 54958)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 54960)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 54962)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 54994)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55000)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+From: ('127.0.0.1', 55004)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=algohalf
+From: ('127.0.0.1', 55008)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+From: ('127.0.0.1', 55016)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55018)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=algohalf
+From: ('127.0.0.1', 55020)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=algohalf&coin_id=0-5x-long-algorand-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55024)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55028)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55030)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55034)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55038)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55040)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 55044)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55046)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-bitcoin-cash-token&symbol=bchhalf
+From: ('127.0.0.1', 55048)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=bchhalf
+From: ('127.0.0.1', 55050)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-bitcoin-cash-token&symbol=bchhalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=bchhalf&coin_id=0-5x-long-bitcoin-cash-token
+From: ('127.0.0.1', 55054)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-bitcoin-cash-token&symbol=bchhalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55056)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=bchhalf&coin_id=0-5x-long-bitcoin-cash-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=bchhalf
+From: ('127.0.0.1', 55058)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=bchhalf&coin_id=0-5x-long-bitcoin-cash-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55064)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55066)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55068)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 55092)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55100)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+From: ('127.0.0.1', 55102)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 55104)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+From: ('127.0.0.1', 55108)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55110)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 55112)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+From: ('127.0.0.1', 55122)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-altcoin-index-token&symbol=althalf
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55124)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=althalf
+From: ('127.0.0.1', 55126)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55132)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55134)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55138)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55140)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55142)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55146)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55148)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55150)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55152)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55158)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55160)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55162)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55164)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55166)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55168)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55170)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 55182)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55184)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55186)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55188)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55194)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55198)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55200)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55204)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55206)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55208)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55212)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55214)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55216)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55220)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55222)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55226)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55228)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55230)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55238)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55240)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55252)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55260)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55262)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 55266)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/userpage
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55268)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55270)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55272)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55280)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55282)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55284)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55290)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55292)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55294)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55298)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55302)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+From: ('127.0.0.1', 55304)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=algohalf
+From: ('127.0.0.1', 55308)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55312)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=0-5x-long-algorand-token&symbol=algohalf
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55314)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55318)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55320)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=utrust&symbol=utk
+From: ('127.0.0.1', 55324)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=utk
+From: ('127.0.0.1', 55326)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=utrust&symbol=utk
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=utk&coin_id=utrust
+From: ('127.0.0.1', 55330)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=utrust&symbol=utk
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55332)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=utk
+From: ('127.0.0.1', 55334)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55340)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55342)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55344)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55348)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55350)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55352)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=utrust&symbol=utk
+From: ('127.0.0.1', 55356)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=utk
+From: ('127.0.0.1', 55358)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=utrust&symbol=utk
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=utk&coin_id=utrust
+From: ('127.0.0.1', 55362)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=utrust&symbol=utk
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55364)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=utk
+From: ('127.0.0.1', 55366)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Connection: keep-alive
+
+
+
+GET request
+Path: /
+From: ('127.0.0.1', 55378)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+If-Modified-Since: Mon, 13 Sep 2021 12:53:58 GMT
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 55380)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/
+Connection: keep-alive
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 55382)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 55386)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/trending
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/coin_info?coin_id=utrust&symbol=utk
+From: ('127.0.0.1', 55390)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/trending
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/single?symbol=utk
+From: ('127.0.0.1', 55392)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/coins/coin_info?coin_id=utrust&symbol=utk
+Connection: keep-alive
+
+
+
+GET request
+Path: /buysell?symbol=utk&coin_id=utrust
+From: ('127.0.0.1', 55396)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/coins/coin_info?coin_id=utrust&symbol=utk
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55398)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Connection: keep-alive
+
+
+
+GET request
+Path: /coins/single?symbol=utk
+From: ('127.0.0.1', 55400)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Connection: keep-alive
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 55406)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 55408)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Connection: keep-alive
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 55410)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+Referer: http://localhost:8080/login
+Upgrade-Insecure-Requests: 1
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 57456)
+Headers: Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: */*
+dnt: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+
+GET request
+Path: /trending
+From: ('127.0.0.1', 57460)
+Headers: Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+dnt: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+
+GET request
+Path: /trending_coins
+From: ('127.0.0.1', 57464)
+Headers: Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: */*
+dnt: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/trending
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+
+GET request
+Path: /login
+From: ('127.0.0.1', 57470)
+Headers: Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+dnt: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/trending
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+
+GET request
+Path: /is_authorized
+From: ('127.0.0.1', 57474)
+Headers: Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: */*
+dnt: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/login
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+
+GET request
+Path: /userpage
+From: ('127.0.0.1', 57478)
+Headers: Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Linux"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+dnt: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: document
+Referer: http://localhost:8080/login
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+
+GET request
+Path: /coins/list
+From: ('127.0.0.1', 57486)
+Headers: Host: localhost:8080
+Connection: keep-alive
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Accept: */*
+dnt: 1
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+

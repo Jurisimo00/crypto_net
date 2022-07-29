@@ -1,0 +1,152 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+        .title {
+            font-size: 1.9rem;
+        }
+        
+        .userprompt {
+            background-color: rgb(136, 136, 136);
+            margin: 5em auto;
+            width: fit-content;
+            padding: 2em;
+            border-radius: 1em;
+        }
+        
+        .userinput {
+            text-align: center;
+            margin: 1em;
+            border-radius: .7em;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            padding: .5em 2em .5em 2em;
+            font-size: 1.4rem;
+            appearance: none;
+            outline: none;
+            border: none;
+        }
+        
+        .userbutton {
+            margin: 1em;
+            border-radius: .7em;
+            cursor: pointer;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            padding: .5em 2em .5em 2em;
+            font-size: 1.4rem;
+            appearance: none;
+            outline: none;
+            border: none;
+        }
+        
+        .userbutton:hover {
+            background-color: rgba(0, 0, 0, 0.2);
+        }
+        
+        .nav {
+            background-color: rgb(136, 136, 136);
+            display: inline-block;
+            position: sticky;
+            font-size: 1.2rem;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            margin-top: 2em;
+            width: 100%;
+        }
+        
+        .nav>div {
+            background-color: rgb(64, 211, 51);
+            display: inline;
+            padding: .5em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            margin: 0 1em 0 1em;
+            user-select: none;
+            cursor: pointer;
+        }
+        
+        .nav>div:hover {
+            opacity: 0.7;
+        }
+        
+        body,
+        html {
+            background-color: rgb(75, 75, 75);
+            overflow-x: hidden;
+            font-family: 'Prompt', sans-serif;
+        }
+        
+        body {
+            color: white;
+            margin: 0;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="title">
+        Crypto Network
+    </div>
+
+    <div class="nav">
+        <div id="gotohomepage">Homepage</div>
+        <div id="trending">Coins</div>
+    </div>
+
+    <div class="userprompt">
+        <div>
+            <input id="username" class="userinput" type="text" placeholder="username" />
+        </div>
+        <div>
+            <input id="pwd" class="userinput" type="password" placeholder="password" />
+        </div>
+        <div>
+            <input id="userbutton" class="userbutton" type="button" value="Login" />
+        </div>
+    </div>
+</body>
+
+<script>
+    window.onload = async() => {
+        await fetch("/is_authorized", {
+            method: "GET"
+        }).then(async res => {
+            res = await res.json()
+            if (res.success === true) window.location.href = "/userpage"
+        })
+
+        document.getElementById("gotohomepage").onclick = () => {
+            window.location.href = "/"
+        }
+
+        document.getElementById("trending").onclick = () => {
+            window.location.href = "/trending"
+        }
+
+        document.getElementById("userbutton").onclick = async() => {
+            var path = "/authenticate"
+            await fetch(path, {
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    "username": document.getElementById("username").value,
+                    "pwd": document.getElementById("pwd").value
+                })
+            }).then(async res => {
+                res = await res.json();
+                if (res.success === true) window.location.href = "/userpage";
+                else {
+                    alert(res.message);
+                    document.getElementById("username").value = "";
+                    document.getElementById("pwd").value = "";
+                }
+            })
+        }
+    }
+</script>
+
+</html>

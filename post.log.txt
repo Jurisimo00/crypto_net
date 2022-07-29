@@ -1,0 +1,968 @@
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34470)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34508)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34518)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34524)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34530)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34536)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34542)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34548)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34554)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34562)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34570)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34578)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34594)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34598)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34612)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34616)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 34650)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 53602)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 53648)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=sol&coin_id=solana
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 53656)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 53854)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 53910)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54060)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54214)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54322)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54346)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=balhalf&coin_id=0-5x-long-balancer-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54518)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54538)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54546)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54796)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=zoc&coin_id=01coin
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54818)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54898)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54928)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54936)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 54952)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /logout
+From: ('127.0.0.1', 54954)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /authenticate
+From: ('127.0.0.1', 55032)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Content-Type: application/json
+Origin: http://localhost:8080
+Content-Length: 35
+Connection: keep-alive
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55036)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55062)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=bchhalf&coin_id=0-5x-long-bitcoin-cash-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55116)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /update_wallet
+From: ('127.0.0.1', 55120)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Content-type: application/json
+Origin: http://localhost:8080
+Content-Length: 124
+Connection: keep-alive
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55130)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=althalf&coin_id=0-5x-long-altcoin-index-token
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55144)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55154)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /logout
+From: ('127.0.0.1', 55156)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /authenticate
+From: ('127.0.0.1', 55192)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Content-Type: application/json
+Origin: http://localhost:8080
+Content-Length: 35
+Connection: keep-alive
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55196)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55218)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55232)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55264)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55286)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /logout
+From: ('127.0.0.1', 55288)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /authenticate
+From: ('127.0.0.1', 55296)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/login
+Content-Type: application/json
+Origin: http://localhost:8080
+Content-Length: 35
+Connection: keep-alive
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55300)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55338)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55346)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55370)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55404)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/buysell?symbol=utk&coin_id=utrust
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 55412)
+Headers: Host: localhost:8080
+User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:86.0) Gecko/20100101 Firefox/86.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Referer: http://localhost:8080/userpage
+Content-Type: application/json
+Origin: http://localhost:8080
+Connection: keep-alive
+Content-Length: 0
+
+
+
+POST request
+Path: /userdata
+From: ('127.0.0.1', 57482)
+Headers: Host: localhost:8080
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: " Not A;Brand";v="99", "Chromium";v="100", "Google Chrome";v="100"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.88 Safari/537.36
+sec-ch-ua-platform: "Linux"
+Content-Type: application/json
+Accept: */*
+dnt: 1
+Origin: http://localhost:8080
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: http://localhost:8080/userpage
+Accept-Encoding: gzip, deflate, br
+Accept-Language: it-IT,it;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: _xsrf=2|6866d681|111d3416849855f5053baf9c33edc4ea|1656766476; username-localhost-8888="2|1:0|10:1657547924|23:username-localhost-8888|44:NDJmNjE0NGNkZWFkNGIyMjk0OTA1NmQyMjQ5YWU3YzY=|bbcb4340160466efe715b643f53ffc91fcfbbbf6a889db26394d72ce2e74a0f9"
+
+
+

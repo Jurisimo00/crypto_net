@@ -1,0 +1,149 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+        .list_title {
+            margin: 2em;
+            font-size: 1.5rem;
+        }
+        
+        .list_container {
+            margin-left: 20%;
+            margin-right: 20%;
+        }
+        
+        .loading {
+            font-size: 1.5rem;
+        }
+        
+        .title {
+            font-size: 1.9rem;
+        }
+        
+        .nav {
+            background-color: rgb(136, 136, 136);
+            display: inline-block;
+            position: sticky;
+            font-size: 1.2rem;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            margin-top: 2em;
+            width: 100%;
+        }
+        
+        .nav>div {
+            background-color: rgb(64, 211, 51);
+            display: inline;
+            padding: .5em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            margin: 0 1em 0 1em;
+            user-select: none;
+            cursor: pointer;
+        }
+        
+        .nav>div:hover {
+            opacity: 0.7;
+        }
+        
+        .coin_container {
+            background-color: rgb(136, 136, 136);
+            padding: 1em;
+            margin-top: 1em;
+            color: white;
+            cursor: pointer;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            user-select: none;
+        }
+        
+        .container_head {
+            background-color: transparent;
+            color: white;
+            box-shadow: none;
+        }
+        
+        .coin_container:hover {
+            opacity: 0.6;
+        }
+        
+        .container_head:hover {
+            opacity: 1.0;
+            cursor: auto;
+        }
+        
+        body,
+        html {
+            background-color: rgb(75, 75, 75);
+            overflow-x: hidden;
+            font-family: 'Prompt', sans-serif;
+        }
+        
+        body {
+            color: white;
+            margin: 0;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="title">
+        Crypto Network
+    </div>
+
+    <div class="nav">
+        <div id="gotohomepage">Homepage</div>
+        <div id="trending">Coins</div>
+        <div id="userpage">Userpage</div>
+    </div>
+
+    <div class="list_title">Coins list</div>
+    <div id="listcontainer" class="list_container">
+        <div class="coin_container container_head">
+            <div>Name</div>
+            <div>Symbol</div>
+        </div>
+        <div id="loading" class="loading">Loading...</div>
+    </div>
+</body>
+
+<script>
+    window.onload = async() => {
+        document.getElementById("gotohomepage").onclick = () => {
+            window.location.href = "/"
+        }
+
+        document.getElementById("trending").onclick = () => {
+            window.location.href = "/trending"
+        }
+
+        document.getElementById("userpage").onclick = () => {
+            window.location.href = "/login"
+        }
+
+        await fetch("/coins/list", {
+            method: "GET"
+        }).then(async res => {
+            res = await res.json();
+            res.forEach((data) => {
+                div_element = document.createElement("div");
+                div_element.className = "coin_container"
+                left_elem = document.createElement("div");
+                right_elem = document.createElement("div");
+                left_elem.textContent = data.name;
+                right_elem.textContent = data.symbol.toUpperCase();
+                div_element.appendChild(left_elem);
+                div_element.appendChild(right_elem);
+                div_element.onclick = () => {
+                    window.location.href = "/coins/coin_info?coin_id=" + data.id + "&" + "symbol=" + data.symbol
+                }
+                document.getElementById("listcontainer").appendChild(div_element)
+            });
+            document.getElementById("loading").remove()
+        })
+    }
+</script>
+
+</html>

@@ -1,0 +1,175 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+        .title {
+            font-size: 1.9rem;
+        }
+        
+        .info_container {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            width: 65%;
+            margin: 5em auto;
+        }
+        
+        .info_sec {
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            padding: 1em;
+            height: 200px;
+            color: black;
+            background-color: white;
+            box-shadow: white;
+            border-radius: 1em;
+            margin: .5em;
+            display: inline;
+        }
+        
+        .price_info {
+            float: left;
+        }
+        
+        .info_links {
+            height: fit-content;
+        }
+        
+        .info_chart {
+            height: fit-content;
+        }
+        
+        .info_prices {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+        }
+        
+        .nav {
+            background-color: rgb(136, 136, 136);
+            display: inline-block;
+            position: sticky;
+            font-size: 1.2rem;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            margin-top: 2em;
+            width: 100%;
+        }
+        
+        .nav>div {
+            background-color: rgb(64, 211, 51);
+            display: inline;
+            padding: .5em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            margin: 0 1em 0 1em;
+            user-select: none;
+            cursor: pointer;
+        }
+
+        .description {
+            height: 100px;
+            overflow-y: scroll;
+        }
+        
+        .nav>div:hover {
+            opacity: 0.7;
+        }
+        
+        body,
+        html {
+            background-color: rgb(75, 75, 75);
+            overflow-x: hidden;
+            font-family: 'Prompt', sans-serif;
+        }
+        
+        body {
+            color: white;
+            margin: 0;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="title">
+        Crypto Network
+    </div>
+
+    <div class="nav">
+        <div id="gotohomepage">Homepage</div>
+        <div id="trending">Coins</div>
+        <div id="buysell">Buy/Sell</div>
+        <div id="userpage">Userpage</div>
+    </div>
+
+    <div class="info_container">
+        <div id="logo" class="info_sec">
+            <img height="150px" width="150px" id="image" src="" alt="">
+            <p id="name">
+            </p>
+        </div>
+        <div id="info" class="info_sec info_prices">
+            <div id="priceinfo" class="price_info">
+                <p id="marketcap"></p>
+                <p id="marketcaprank"></p>
+                <p id="currentprice"></p>
+            </div>
+            <div id="othersinfo" class="other_info">
+                <label for="contract">Contract address</label>
+                <p id="contract"></p>
+                <p id="assetplatform"></p>
+                <p id="description" class="description"></p>
+            </div>
+        </div>
+        <div id="links" class="info_sec info_links">
+            links:
+            <div>
+                <a id="homepage">website</a>
+            </div>
+            <div>
+                <a id="repo">github link</a>
+            </div>
+        </div>
+        <div id="links" class="info_sec info_chart">
+            <script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
+            <coingecko-coin-price-chart-widget coin-id="utrust" currency="usd" height="300" locale="en"></coingecko-coin-price-chart-widget>
+        </div>
+    </div>
+</body>
+
+<script>
+    window.onload = async() => {
+        path = "/coins/single?symbol=utk"
+
+        document.getElementById("gotohomepage").onclick = () => {
+            window.location.href = "/"
+        }
+
+        document.getElementById("trending").onclick = () => {
+            window.location.href = "/trending"
+        }
+
+        document.getElementById("buysell").onclick = () => {
+            window.location.href = "/buysell?symbol=utk&coin_id=utrust"
+        }
+
+        document.getElementById("userpage").onclick = () => {
+            window.location.href = "/userpage"
+        }
+
+        await fetch(path, {
+            method: "GET"
+        }).then(async res => {
+            res = await res.json();
+            document.getElementById("name").textContent = res.name + " (" + res.symbol.toUpperCase() + ")"
+            document.getElementById("image").src = res.image.large
+            document.getElementById("marketcap").textContent = "Market cap: $ " + res.market_data.market_cap.usd
+            document.getElementById("marketcaprank").textContent = "Rank: " + res.market_data.market_cap_rank + "^ place"
+            document.getElementById("currentprice").textContent = "Price: $ " + res.market_data.current_price.usd
+            document.getElementById("repo").href = res.links.repos_url.github == "" ? "https://github.com" : res.links.repos_url.github[0]
+            document.getElementById("homepage").href = res.links.homepage[0]
+            document.getElementById("contract").textContent = res.contract_address
+            document.getElementById("assetplatform").textContent = "Asset platform: " + res.asset_platform_id
+            document.getElementById("description").textContent = "Description: " + res.description.en
+        })
+    }
+</script>
+</html>

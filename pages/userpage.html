@@ -1,0 +1,153 @@
+<html>
+
+<head>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Prompt&display=swap');
+        .title {
+            font-size: 1.9rem;
+        }
+        
+        .username {
+            margin-top: 2em;
+            font-size: 1.5rem;
+        }
+        
+        .wallet_title {
+            margin-top: 2em;
+            font-size: 1.3rem;
+        }
+        
+        .wallet {
+            color: white;
+            width: 50%;
+            margin: auto;
+            background-color: rgb(64, 211, 51);
+            border-radius: 1em;
+            padding: 1em;
+        }
+        
+        .wallet_voice {
+            padding: 1em;
+            margin: .5em;
+            border-radius: .5em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            background-color: rgb(136, 136, 136);
+            user-select: none;
+            cursor: pointer;
+        }
+        
+        .wallet_voice:hover {
+            background-color: rgba(0, 0, 0, 0.1);
+        }
+        
+        .nav {
+            background-color: rgb(136, 136, 136);
+            display: inline-block;
+            position: sticky;
+            font-size: 1.2rem;
+            padding-top: 2em;
+            padding-bottom: 2em;
+            margin-top: 2em;
+            width: 100%;
+        }
+        
+        .nav>div {
+            background-color: rgb(64, 211, 51);
+            display: inline;
+            padding: .5em;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+            margin: 0 1em 0 1em;
+            user-select: none;
+            cursor: pointer;
+        }
+        
+        .nav>div:hover {
+            opacity: 0.7;
+        }
+        
+        body,
+        html {
+            background-color: rgb(75, 75, 75);
+            overflow-x: hidden;
+            font-family: 'Prompt', sans-serif;
+        }
+        
+        body {
+            color: white;
+            margin: 0;
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="title">
+        Crypto Network
+    </div>
+
+    <div class="nav">
+        <div id="gotohomepage">Homepage</div>
+        <div id="trending">Coins</div>
+        <div id="logout">Logout</div>
+    </div>
+
+    <div>
+        <div id="username" class="username"></div>
+        <div id="dollarbalance" class="username"></div>
+        <div class="wallet_title">Wallet</div>
+        <div id="wallet" class="wallet">
+        </div>
+    </div>
+</body>
+
+<script>
+    window.onload = async() => {
+        document.getElementById("gotohomepage").onclick = () => {
+            window.location.href = "/"
+        }
+
+        document.getElementById("trending").onclick = () => {
+            window.location.href = "/trending"
+        }
+
+        document.getElementById("logout").onclick = async() => {
+            await fetch("logout", {
+                method: "POST",
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+            }).then(async res => {
+                res = await res.json();
+                if (res.success === true) window.location.href = "/";
+            })
+        }
+
+        await fetch("/userdata", {
+            method: "POST",
+            headers: {
+                'Content-Type': 'application/json'
+            },
+        }).then(async res => {
+            res = await res.json();
+            document.getElementById("username").textContent = "@" + res.data.username;
+            document.getElementById("dollarbalance").textContent = "Balance: $" + res.data.dollar_balance;
+            res.data.wallet.forEach((elem) => {
+                new_element = document.createElement("div");
+                new_element.className = "wallet_voice";
+                new_element.textContent = elem.name + "    |    balance: [" + elem.symbol.toUpperCase() + "]" + elem.balance;
+
+                new_element.onclick = async() => {
+                    await fetch("/coins/single?symbol=" + elem.symbol, {
+                        method: "GET"
+                    }).then(async res => {
+                        res = await res.json();
+                        window.location.href = "/coins/coin_info?coin_id=" + res.id + "&symbol=" + res.symbol
+                    });
+                }
+                document.getElementById("wallet").appendChild(new_element);
+            })
+        })
+    }
+</script>
+
+</html>
